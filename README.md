@@ -1,5 +1,5 @@
-### Hi there, I'm Lokendra Chhetri
-> DevOps Engineer, BSc Software Engineer, UT Arlington
+# Hi there, I'm Lokendra Chhetri
+### DevOps Engineer, BSc Software Engineer, UT Arlington
 
 
 ## Languages and Tools:
@@ -11,7 +11,10 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" height="60" style="vertical-align:top; margin:4px">
 </p>
 
+******************** 
 
-### Github Stats
 
-[![Lokendra Chhetri GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokendrachhetri9&show_icons=true&count_private=true)](https://github.com/lokendrachhetri9)
+## Github Stats
+
+| <a href="https://github.com/lokendrachhetri9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lokendrachhetri9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lokendrachhetri9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendrachhetri9&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
