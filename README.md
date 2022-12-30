@@ -16,5 +16,5 @@
 
 ## Github Stats
 
-| <a href="https://github.com/lokendrachhetri9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lokendrachhetri9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/lokendrachhetri9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendrachhetri9&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/lokendrachhetri9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lokendrachhetri9&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lokendra's github stats" /></a> | <a href="https://github.com/lokendrachhetri9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokendrachhetri9&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
